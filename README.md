@@ -2,6 +2,7 @@
 
 # probabilistic-neural-network-in-python
 This folder contains the simple implementation of probabilistic neural network in python.
+video explanition : https://www.youtube.com/playlist?list=PLz3iwtnWFin_i4-YQvMavIfmyqxmSTKgx
 
 ## Getting Started
 
