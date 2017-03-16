@@ -22,7 +22,7 @@ sigma = 1
 increament_current_row_in_matrix = 0
 
 # 3. Define the point that we wish to classifiy - Clearly it is Red 
-point_want_to_classify = [0.6,0.6]
+point_want_to_classify = [0.8,0.2]
 
 # **INPUT LAYER OF THE PNN **
 # 4. Loop via number of classes 
@@ -34,7 +34,6 @@ for k in range(1,number_of_classes+1):
 
 	# ** PATTERN LAYER OF PNN **
 	# 5. Loop via the number of training example in class i 
-
 	# 5.1 - Declare a temporary variable to hold the sum of gaussian distribution sum
 	temp_summnation = 0.0
 
