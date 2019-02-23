@@ -1,4 +1,6 @@
 
+# Note
+Found an error in the code did not raise to power of exponent!
 
 # probabilistic-neural-network-in-python
 This folder contains the simple implementation of probabilistic neural network in python.
